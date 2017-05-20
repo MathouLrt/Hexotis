@@ -1,3 +1,39 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Hexotis</string>
+
+    <string name="str_rec">REC</string>
+    <string name="str_tempo">Tempo:</string>
+    <string name="str_plus5bpm">+5</string>
+    <string name="str_less5bpm">-5</string>
+    <string name="str_plus1bpm">+1</string>
+    <string name="str_less1bpm">-1</string>
+    <string name="str_son1">Sound1</string>
+    <string name="str_son2">Sound2</string>
+    <string name="str_son3">Sound3</string>
+    <string name="str_sons">Sounds</string>
+    <string name="str_control">Control</string>
+    <string name="str_disconnect">Disconnect</string>
+
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving.</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_connected">Connected to Hexotis</string>
+    <string name="title_not_connected">Not connected</string>
+
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">Select a device to connect to</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="str_recOn">REC</string>
+    <string name="str_recOff">REC</string>
 </resources>
