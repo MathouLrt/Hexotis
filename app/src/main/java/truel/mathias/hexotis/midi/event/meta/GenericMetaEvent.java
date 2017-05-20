@@ -3,7 +3,7 @@ package truel.mathias.hexotis.midi.event.meta;
 import java.io.IOException;
 import java.io.OutputStream;
 
-import com.leff.midi.event.MidiEvent;
+import truel.mathias.hexotis.midi.event.MidiEvent;
 
 public class GenericMetaEvent extends MetaEvent
 {
