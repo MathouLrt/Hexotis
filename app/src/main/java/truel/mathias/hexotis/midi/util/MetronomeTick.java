@@ -1,7 +1,7 @@
 package truel.mathias.hexotis.midi.util;
 
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.event.meta.TimeSignature;
+import truel.mathias.hexotis.midi.event.MidiEvent;
+import truel.mathias.hexotis.midi.event.meta.TimeSignature;
 
 /**
  * An event specifically for MidiProcessor to broadcast metronome ticks so that

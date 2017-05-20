@@ -16,7 +16,7 @@
 
 package truel.mathias.hexotis.midi.util;
 
-import com.leff.midi.event.MidiEvent;
+import truel.mathias.hexotis.midi.event.MidiEvent;
 
 public interface MidiEventListener
 {

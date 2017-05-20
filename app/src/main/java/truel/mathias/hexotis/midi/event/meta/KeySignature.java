@@ -19,8 +19,8 @@ package truel.mathias.hexotis.midi.event.meta;
 import java.io.IOException;
 import java.io.OutputStream;
 
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.util.VariableLengthInt;
+import truel.mathias.hexotis.midi.event.MidiEvent;
+import truel.mathias.hexotis.midi.util.VariableLengthInt;
 
 public class KeySignature extends MetaEvent
 {

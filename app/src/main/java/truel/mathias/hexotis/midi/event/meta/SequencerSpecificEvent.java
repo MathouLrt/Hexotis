@@ -19,9 +19,9 @@ package truel.mathias.hexotis.midi.event.meta;
 import java.io.IOException;
 import java.io.OutputStream;
 
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.util.MidiUtil;
-import com.leff.midi.util.VariableLengthInt;
+import truel.mathias.hexotis.midi.event.MidiEvent;
+import truel.mathias.hexotis.midi.util.MidiUtil;
+import truel.mathias.hexotis.midi.util.VariableLengthInt;
 
 public class SequencerSpecificEvent extends MetaEvent
 {

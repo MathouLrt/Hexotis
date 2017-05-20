@@ -3,12 +3,12 @@ package truel.mathias.hexotis.midi.examples;
 import java.io.File;
 import java.io.IOException;
 
-import com.leff.midi.MidiFile;
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.event.NoteOn;
-import com.leff.midi.event.meta.Tempo;
-import com.leff.midi.util.MidiEventListener;
-import com.leff.midi.util.MidiProcessor;
+import truel.mathias.hexotis.midi.MidiFile;
+import truel.mathias.hexotis.midi.event.MidiEvent;
+import truel.mathias.hexotis.midi.event.NoteOn;
+import truel.mathias.hexotis.midi.event.meta.Tempo;
+import truel.mathias.hexotis.midi.util.MidiEventListener;
+import truel.mathias.hexotis.midi.util.MidiProcessor;
 
 public class EventPrinter implements MidiEventListener
 {
